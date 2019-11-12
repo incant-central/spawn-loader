@@ -1,6 +1,6 @@
 {
   "name": "@incant/spawn-loader",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Spawn loader for Incant",
   "main": "index.js",
   "scripts": {
